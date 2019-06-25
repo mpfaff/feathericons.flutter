@@ -12,7 +12,7 @@ class FeatherIconData extends IconData {
     : super (
         codePoint,
         fontFamily: 'FeatherIcons',
-        fontPackage: 'feathericons_flutter',
+        fontPackage: 'feather_icons_flutter',
       );
 }
 
