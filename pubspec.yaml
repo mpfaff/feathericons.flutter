@@ -3,7 +3,7 @@ description: The Feather Icons pack available as Flutter Icons
 author: Michael Pfaff <michael@materialtime.dev>
 homepage: https://feathericons.com
 repository: https://github.com/MaterialTime/feathericons.flutter
-version: 4.22.1
+version: 4.22.1+2
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
