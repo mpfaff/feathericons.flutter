@@ -1,0 +1,23 @@
+name: feather_icons_flutter
+description: The Feather Icons pack available as Flutter Icons
+author: Michael Pfaff <michael@materialtime.dev>
+homepage: https://feathericons.com
+repository: https://github.com/MaterialTime/feathericons.flutter
+version: 4.22.1
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  recase: ^2.0.0+1
+
+flutter:
+  fonts:
+    - family: FeatherIcons
+      fonts:
+        - asset: lib/fonts/feathericons.ttf
+          weight: 400
